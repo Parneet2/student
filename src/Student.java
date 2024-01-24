@@ -5,7 +5,9 @@
 
 /** //Encapsulation Principle -- in order to develop great software.
  *entity - student -model class
- * @author 62par
+ * @author 62par //date 
+ * m, 
+ * kl
  */ // in exam variable public  ans - encaplsulation principles voileted
 public class Student {
     private String name; //principle encapsulation(private)
