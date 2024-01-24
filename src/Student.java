@@ -10,6 +10,7 @@
 public class Student {
     private String name; //principle encapsulation(private)
     private int id; // so that other classes cannot directly modified or access variable
+    private int age;
      // other classes  will accesss private methods by getter and setter
 
     /**
